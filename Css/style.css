@@ -1,0 +1,124 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-image: url(../Img/professional-developer-programmer-working-software-website-design-coding-technology-writing-codes-database-company-office-global-cyber-connection-technology_122498-189.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    height: 100vh;
+	position: relative;
+}
+
+.LoginBox {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    padding: 80px 40px;
+    width: 350px;
+    height: 450px;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0 , .5);
+}
+
+.User {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    top: calc(-100px/2 );
+    Left: calc( 50% - 50px );
+}
+
+h2 {
+    margin: 0px;
+    padding: 0 0 20px;
+    text-align: center;
+    color: #fff;
+}
+
+.LoginBox P {
+    padding: 0px;
+    margin: 0px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.LoginBox input {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.LoginBox input[type="text"] ,
+.LoginBox input[type="password"]
+ {
+    outline: 0px;
+    border: 0px;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+
+.LoginBox input[type="submit"] 
+{
+    outline: 0px;
+    border: 0px;
+    background: transparent;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+    background-color: brown;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+.LoginBox input[type="submit"]:hover {
+    background-color: #000000;
+    box-shadow: 0px 0px 10px #fff;
+
+}
+
+.Haha {
+    margin-top: 10px;
+}
+
+.Dont {
+    margin: 10px;
+    margin-top: -10px;
+    margin-left: 0px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.LoginBox a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 16px;
+    margin : auto 30px;
+    background-color: aqua;
+    padding: 15px;
+    border-radius: 8px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-weight: bold;
+    margin: 1px;
+    
+}
+
+
+
+.LoginBox a:hover {
+    box-shadow: 0px 0px 10px #fff;
+}
+
+#Wrong {
+    color: red;
+    font-weight: bold;
+    margin: 20px;
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+
