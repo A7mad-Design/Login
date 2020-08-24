@@ -9,7 +9,7 @@ username=="admin"&& password=="user123456"  ||
 username=="admin"&& password=="user54321"  ||
 username=="admin"&& password=="user99999")
 {
-    window.location.href="https://www.w3schools.com/"
+    window.location.href="https://a7mad-design.github.io/A7medCourses_Official/"
     return false;
 }
 else
