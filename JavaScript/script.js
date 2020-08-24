@@ -16,6 +16,7 @@ else
 {
     Else.innerHTML="Wrong Email Or Password"
     event.preventDefault
+    window.onbeforeunload = function() { return false };
 }
 
 
