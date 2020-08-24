@@ -83,12 +83,12 @@ h2 {
 
 
 .Haha {
-    margin-top: 10px;
+   
 }
 
 .Dont {
     margin: 10px;
-    margin-top: 30px;
+    
     margin-left: 0px;
     font-weight: bold;
     color: #fff;
@@ -125,22 +125,3 @@ h2 {
 }
 
 
-#Sign {
-    outline: 0px;
-    border: 0px;
-    background: transparent;
-    height: 80px;
-    color: #fff;
-    font-size: 16px;
-    background-color: brown;
-    cursor: pointer;
-    border-radius: 15px;
-    padding: 35px;
-    border-radius: 8px;
-    padding-top: 3px;
-    padding-bottom: 3px;
-    font-weight: bold;
-    margin-left: 30%;
-    margin: 70px;
-    
-}
